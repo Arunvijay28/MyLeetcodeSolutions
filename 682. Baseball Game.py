@@ -16,7 +16,7 @@ def calPoints(self, operations) -> int:
 # You are given a list of strings operations, where operations[i] is the ith operation you must apply to the record and is one of the following:
 
 # An integer x.
-# Record a new score of x.
+# Record a new score of x
 # '+'.
 # Record a new score that is the sum of the previous two scores.
 # 'D'.
